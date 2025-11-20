@@ -55,3 +55,6 @@ This is a checkbox
       - Content2.2.1
       - Content2.2.2
   - Content3
+
+This is another image  
+![Cloud image](https://github.com/Amcalstrings/Documentation/blob/main/Cloud%20Migration%20Security%20Compliance.jpg)
